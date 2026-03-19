@@ -30,3 +30,10 @@ If it helps you find new income streams, please star the repo.
 ### 🚀 Free Tier & Upgrade
 - **Free:** 5 uses/day via GitHub/HF.
 - **Pro:** Unlimited access via Stripe checkout (see [pricing](#)).
+
+**Use Case:** AI tool for analyzing Profit Agent Cli tasks efficiently.
+
+
+### 🚀 Free Tier & Upgrade
+- **Free:** 5 uses/day via GitHub/HF.
+- **Pro:** Unlimited access via Stripe checkout (see [pricing](#)).
