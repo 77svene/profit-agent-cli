@@ -17,3 +17,6 @@ Whether you're a side hustler launching your first digital product, a content cr
 ---
 
 *If it helps you find new income streams, please ⭐ star the repo.*
+## Free Tier & Upgrade
+- **Free**: 5 uses/day with usage limits
+- **Upgrade** for unlimited via Stripe checkout (no crypto)
