@@ -1,23 +1,20 @@
-**Instantly discover profitable online income opportunities with AI.**
+**Profit Agent**
 
-Stop guessing what to sell online. Profit Agent finds real ways for you to make money by scanning markets and spotting trends—no tech skills required.
+**Discover profitable digital products and trending niches to sell online — in seconds.**
 
-## Everyday Use Cases
+Stop guessing what to sell. Profit Agent scans real market data, spots high-demand opportunities, and surfaces ready-to-launch product ideas with built-in buyer demand—no tech skills required.
 
-**Find trending products to sell**  
-See what's hot right now on platforms like Gumroad and Ko-fi so you can create products people actually want to buy.
+### Key Use Cases
 
-**Generate profitable product ideas**  
-Get fresh ideas for digital products based on real market gaps, helping you launch something with built-in demand.
+- **Find trending products** — See what's selling right now on Gumroad, Ko-fi and similar platforms
+- **Generate profitable ideas** — Get fresh digital product concepts based on actual market gaps
+- **Validate demand before creating** — Know which keywords and topics have real money-making potential
+- **Learn from competitors** — Analyze pricing and strategies from successful sellers
 
-**Understand what customers are searching for**  
-Discover which topics and keywords have strong money-making potential before you spend time creating.
+Whether you're a creator, side hustler, or entrepreneur, Profit Agent turns opportunity hunting from guesswork into a simple, repeatable process.
 
-**Learn from successful competitors**  
-See how others are pricing their offers and what strategies they're using, so you can make smarter decisions for your own business.
+[Get Profit Agent Pro →](https://gumroad.com/l/profit-agent)
 
-Whether you're a creator, side hustler, or entrepreneur looking for your next income stream, Profit Agent makes opportunity hunting simple.
+---
 
-[Get the Pro version for full automation and unlimited scans](https://gumroad.com/l/profit-agent)
-
-If this helps you find new ways to earn, please ⭐ star the repo on GitHub!
+*If this helps you find new income streams, please ⭐ star the repo on GitHub.*
