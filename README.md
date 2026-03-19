@@ -23,3 +23,10 @@ If it helps you find new income streams, please star the repo.
 ## Monetization
 - Free tier: 5 uses/day with usage limits
 - Upgrade for unlimited access via Stripe checkout (no crypto)
+
+**Use Case:** AI tool for analyzing Profit Agent Cli tasks efficiently.
+
+
+### 🚀 Free Tier & Upgrade
+- **Free:** 5 uses/day via GitHub/HF.
+- **Pro:** Unlimited access via Stripe checkout (see [pricing](#)).
